@@ -1,4 +1,4 @@
-# Special Topics in Artificial Intelligence
+# Special Topics in Artificial Intelligence (RL)
 ***Course taught during the Artificial Intelligence master's program, 2nd Year, 2nd Semester, 2022***
 
 ***University of Bucharest, Faculty of Mathematics and Computer Science***
